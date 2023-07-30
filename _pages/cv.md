@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Physics, University of Eswatini, 2011 - 2015
+* M.S.C in Mathematical Sciences,  University, 2014
+* M.S.C in Mathematical Sciences, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2015: Teacher
+  * Mbowane High school
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
