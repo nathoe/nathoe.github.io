@@ -11,25 +11,24 @@ redirect_from:
 
 Education
 ======
+* M.S.C in Mathematical Sciences,  University, 2014
 * B.S. in Mathematics and Physics, University of Eswatini, 2011 - 2015
 * M.S.C in Mathematical Sciences,  University, 2014
-* M.S.C in Mathematical Sciences, GitHub University, 2018 (expected)
 
-Work experience
 ======
-* Summer 2015: Teacher
-  * Mbowane High school
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021/10 - Present: Data-Scientist
+  * Standard Bank Eswatini
+  * Duties included: MS SQL Server Data Extraction.
+  
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2021/08 -2021/10: Data-Analyst consultant
+  * Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
   
 Skills
 ======
-* Skill 1
+* AWS Certified Cloud Practitioner
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
