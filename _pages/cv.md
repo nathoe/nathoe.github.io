@@ -22,7 +22,7 @@ Education
   * Duties included: MS SQL Server Data Extraction.
   
 
-* 2021/08 -2021/10: Data-Analyst consultant
+* 2021/08 - 2021/10: Data-Analyst consultant
   * Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
   * Duties included: Merging pull requests
   
