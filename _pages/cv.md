@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2019 - 2020: M.S.C in Mathematical Sciences (Machine Intelligence),  Africa Master of Machine Intelligence(AMMI) - Rwand
-* 2017 - 2018 M.Sc Mathematical Sciences, Africa Institute for Mathematical Sciences - South Africa 
+* 2017 - 2018: M.Sc Mathematical Sciences, Africa Institute for Mathematical Sciences - South Africa 
 * 2011 - 2015: B.Sc in Mathematics and Physics, University of Eswatini - Eswatini 
 
 
