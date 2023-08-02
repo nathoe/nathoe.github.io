@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+======
+* 2021/10 - Present: Data-Scientist
+  * Standard Bank Eswatini
+  * <span style="color:grey">Mbabane, Eswatini</span>
+  * Duties included: MS SQL Server Data Extraction.
+  
+
+* 2021/08 - 2021/10: Data-Analyst consultant
+  * Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
+  * <span style="color:grey">Mbabane, Eswatini</span>
+  * Duties included: Merging pull requests
+* 
+
 Education
 ======
 * 2019 - 2020: M.S.C in Mathematical Sciences (Machine Intelligence),  Africa Master of Machine Intelligence(AMMI) - Rwand
@@ -16,17 +30,6 @@ Education
 * 2011 - 2015: B.Sc in Mathematics and Physics, University of Eswatini - Eswatini 
 
 
-======
-* 2021/10 - Present: Data-Scientist
-  * Standard Bank Eswatini
-  * Duties included: MS SQL Server Data Extraction.
-  
-
-* 2021/08 - 2021/10: Data-Analyst consultant
-  * Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
-  * Duties included: Merging pull requests
-  
-  
 Skills
 ======
 * AWS Certified Cloud Practitioner
