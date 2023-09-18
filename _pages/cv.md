@@ -21,23 +21,54 @@ Experience
   * Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
   * <span style="color:grey">Mbabane, Eswatini</span>
   * Duties included: Merging pull requests
-* 
+
+
+* 2019/08 - 2019/10: Mathematics & Physics lecturer
+  * Institute of Development Management(IDM)
+  * <span style="color:grey">Matsapha, Eswatini</span>
+  * Teaching Diploma level mathematics and physics
+  * Preparation of lecture notes, exams.
+
+
+* 2019/02 - 2019/08: Mathematics & Physics Teacher
+  * Hillside High School
+  * <span style="color:grey">Manzini, Eswatini</span>
+  * Teaching IGCESE level mathematics and physics.
+
+
+* 2016/01 - 2017/08: Physics lecturer
+  * Ngwane Teacher Training Collage
+  * <span style="color:grey">Nhlangano, Eswatini</span>
+  * Teaching Diploma level mathematics and physics
+  * Preparation of lecture notes, exams.
+
+
+
+* 2015/06 - 2015/12: Mathematics & Physics Teacher
+  * Mbowane High School
+  * <span style="color:grey">Nhlangano, Eswatini</span>
+  * Teaching IGCESE level mathematics and physics.
 
 Education
 ======
-* 2019 - 2020: M.S.C in Mathematical Sciences (Machine Intelligence),  Africa Master of Machine Intelligence(AMMI) - Rwand
+* 2019 - 2020: M.Sc in Mathematical Sciences (Machine Intelligence),  Africa Master of Machine Intelligence(AMMI) - Rwand
 * 2017 - 2018: M.Sc Mathematical Sciences, Africa Institute for Mathematical Sciences - South Africa 
 * 2011 - 2015: B.Sc in Mathematics and Physics, University of Eswatini - Eswatini 
+
+
+Projects
+======
 
 
 Skills
 ======
 * AWS Certified Cloud Practitioner
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Foundation of entrepreneurship and small business management, University of Swaziland.
+* Programming Skiills
+    * Python Automation
+    * Pytorch
+    * Rstudio
+    * SQL
 
 Publications
 ======
