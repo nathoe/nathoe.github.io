@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](https://github.com/nathoe/nathoe.github.io/blob/master/files/Nkosinathi_Hlophe_CV.pdf)
+
 Experience
 ======
 * 2021/10 - Present: Data-Scientist
@@ -58,7 +60,11 @@ Education
 
 Projects
 ======
-
+* [Adversarial Texture Synthesis with Prototypes](https://github.com/nathoe/Research_projects/raw/master/nkosinathi_ammi_project.pdf)
+* [Deep convolutional neural networks for raw audio classification,](https://github.com/nathoe/Audio-Classifier)
+  * Implementation of this paper [link](https://arxiv.org/pdf/1610.00087.pdf) for audio classification
+* [Power Output Prediction For Wind Farms With Machine Learning](https://github.com/nathoe/Research_projects/raw/master/nkosinathi_aims_project.pdf)
+* [Modelling of disease spread using percolation theory,](https://github.com/nathoe/Research_projects/raw/master/nkosinathi_bsc_project.pdf)
 
 Skills
 ======
