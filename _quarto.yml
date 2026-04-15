@@ -1,0 +1,29 @@
+# Quarto Website Configuration
+
+project:
+  type: website
+
+website:
+  title: "Your Website Title"
+  description: "A brief description of your website."
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  theme:
+    template: "default"
+    color:
+      primary: "#0A66C2"
+      secondary: "#FFFFFF"
+    content:
+      background: "#FFFFFF"
+
+format:
+  html:
+    toc: true
+    toc.position: "left"
