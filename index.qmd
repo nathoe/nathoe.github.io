@@ -1,0 +1,17 @@
+---
+title: "About Nkosinathi"
+date: 2026-04-15
+output: html_document
+---
+
+# Nkosinathi
+
+Nkosinathi is a passionate data scientist with a keen interest in utilizing data to drive decision-making and create impactful solutions. With a strong background in statistics, machine learning, and data visualization, Nkosinathi excels in interpreting complex data sets and translating them into actionable insights.
+
+## Skills
+- **Data Analysis:** Proficient in Python and R for analyzing large datasets.
+- **Machine Learning:** Experienced in building predictive models using various algorithms.
+- **Data Visualization:** Skilled in using tools like Tableau and Matplotlib to create compelling visual narratives.
+
+## LinkedIn
+Feel free to connect with Nkosinathi on [LinkedIn](https://www.linkedin.com/in/nathoe) to learn more about his work and professional journey.
