@@ -13,6 +13,12 @@ redirect_from:
 
 Experience
 ======
+* 2025/05 - Present: Data-Scientist
+  * FNB Eswatini
+  * <span style="color:grey">Ezulwini, Eswatini</span>
+  * Duties included: Agentic AI development and data science modeling 
+
+
 * 2021/10 - Present: Data-Scientist
   * Standard Bank Eswatini
   * <span style="color:grey">Mbabane, Eswatini</span>
