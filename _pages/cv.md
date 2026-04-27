@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-%%{% include base_path %}
-
 [Download CV here](https://github.com/nathoe/nathoe.github.io/blob/master/files/Nkosinathi_Hlophe_CV.pdf)
 
 Experience
